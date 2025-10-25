@@ -1,0 +1,15 @@
+# Core libraries
+pandas
+numpy
+scipy
+
+# for saving/loading .parquet files
+pyarrow
+
+# Machine Learning
+scikit-learn
+lightgbm
+
+#for notebooks and progress bars
+tqdm
+jupyter
