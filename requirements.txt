@@ -13,3 +13,9 @@ lightgbm
 #for notebooks and progress bars
 tqdm
 jupyter
+
+#for app
+streamlit
+fastapi
+uvicorn
+requests
